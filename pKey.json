@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nodegemdemo",
+  "private_key_id": "764128d32f92549d1683f4cb4dd3a291958b37be",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCpch8g9bw8iqSn\nP9XBbDew9FFhjiQVLRAT0CIA86F2O/AJRYepBso7Tji2vezwRVlOCkYwbdlMJm7N\n3+6z6Eymo0s+dz3Uep3Z71CjgXKVCRaMj0gAExx65oY1223+JENum4uXgkx38mf6\nd0py3YLRDP6dDVFGSHg2uB33Vv1CYPgWOciQAMRF5VlXcgOu5ED5phNSYhOPOWiD\nCbvhN3zwhe+a/ISijC5LcG14Yag+btO889om682XMI2evWvgPdMXHwtu271wq6ql\nb/TxvDLYG7pGLFXTmYHLZveuFXeNDzKSBLRc6LgfOH8r2WDkb4B0xGWVKk6/Qp13\nOofemJt1AgMBAAECggEADy4phRsUJBsKU+7aHZwDrpdqJbfwRPK75VUuLAZSSXS7\n384aMJW/zxRblwjo40Bd7H9AeTI+LMj8qvZhkj3rhWT3vBQ+tnx4YSqZf4HSBsbA\n/b1lu+v6ZIr71x4Iz/iRD1BhbyS96Q5kgQHoP5DXbsHKmxNdsVLowi44hmIwCkmJ\nmrqpShZq4dwg7xrS0EOiHzfqtds3rT+LmstEILTjMYIeDVJI/shMfrQ4fkV3eo5M\nJu5OqEQ0Gtuh85M1w+V51c8C4NVGbqIh82fCI85TIpMwOTZHZ65QqRZ0pRK+kowc\nxnPZR6dXDL8L7h3CbjyI8w++ga57cuxSzssCMh3LOQKBgQDgCC4WNRfFf61v5cE1\nv8EiyF0OPteRLQhLWGtRxGDjKdEe6l9wVLWd6NfcrrItQlw91L7agrDqsfpcFXUn\nb9fXzFfU67eyFN7/8wck7oWzvLK+V2iJJgVFe/zjkYk6FIb8mBLFsnnkhA3fRcnd\noH2ATWo8IkPTV4oM9hwqniuBVwKBgQDBn+ziUDnZPFW62lDxQx+kXIHhKI9pvirM\nUG1WQrLLJSYGOmjFxkSHpnAjYmFbaoLJEikvm4BQJNo+8SYkNnhkqjqcdbRtUi63\nTaxT6X8nba/Ye0kiuG78ICFrtprKGkOy07GWfuukXgDw45MFSSobnH6D9j5c4X7v\nTcr72sbOEwKBgQDTxgfCyFd7Q3EwqJAWffhVJ/AHKlJeEqKXjrKMLcWklv/uaIDl\nT74K0nNTUfRuIh/N9xCewBH7GVjfuQzwxaHUhX61cElKVr5iVlp3h93thL+2fCv+\nEWnEQCtS910wAP2FQz/jkA33fPkcCP2EulRId2WoCH/zBPojvHXtt2zKqwKBgQCO\naBoopUq2vIptIC6SE4VNNICN4nAAHM6LcMfJvsqTYKIjyIfQli9G+aHWVIA4ZREF\n46aJDjyENWaTDne4AJvxpcXv1x45nU0goi8RlFVh4WmItbwnnjB6nQMXnrkf1cte\n1hXyEy0qubzFbwttws8GecYPNmfNlkfup2+YZuL7IwKBgQC9VbIRqYeFknvuaWJT\n9kfrLG29Cqlfifu436wRW7VuOgYPWwAIhwKWeLwSYcHNQNEzqonTL9g1bL96huT0\nPq4HyFh2oPc+tGvOckrYGGOUUznXbbNZQhhjp2JpiH5ex688zZ9LOZj4rYxOCpcS\nDtc9cfKru2Nns4zwSAMCTrOYUQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "nodegem@nodegemdemo.iam.gserviceaccount.com",
+  "client_id": "116348598580161016655",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nodegem%40nodegemdemo.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
